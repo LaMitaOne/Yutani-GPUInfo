@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.11.14 13:11:34.745,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.11.14 13:12:05.350,C:\Users\Lenovo\Downloads\Yutani-GPUInfo\Unit1.dfm=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.dfm</Transaction>
+    <Transaction>2026.11.14 13:12:05.350,C:\Users\Lenovo\Downloads\Yutani-GPUInfo\Unit1.pas=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2026.11.14 13:12:15.242,C:\Users\Lenovo\Downloads\Yutani-GPUInfo\Project1.dproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2026.11.14 13:12:26.101,=C:\Users\Lenovo\Downloads\Yutani-GPUInfo\Unit2.pas</Transaction>
+    <Transaction>2026.11.14 13:13:01.877,C:\Users\Lenovo\Downloads\Yutani-GPUInfo\Yutani.GPUInfo.pas=C:\Users\Lenovo\Downloads\Yutani-GPUInfo\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
