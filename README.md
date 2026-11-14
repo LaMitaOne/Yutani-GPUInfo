@@ -1,4 +1,4 @@
-# Yutani-GPUInfo
+# Yutani-GPUInfo v1.0
 A lightweight, single-file Delphi unit for universal hardware-based GPU capability, VRAM, and compute shader speed detection — with **zero external dependencies**.
     
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Yutani-GPUInfo)    
